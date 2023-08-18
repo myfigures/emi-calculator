@@ -60,7 +60,7 @@ export default function Home() {
           <div className="mx-auto max-w-2xl py-4 sm:py-8 lg:py-12">
             <div className="hidden sm:mb-8 sm:flex sm:justify-center">
               <div className="relative rounded-full py-1 px-3 text-sm leading-6 text-gray-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20">
-                Home Loan
+                Home Loan1
               </div>
             </div>
             <h1 className="text-center text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
